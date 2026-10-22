@@ -1,0 +1,6 @@
+{
+  "name": "OpenNewsWire",
+  "description": "تطبيق OpenNewsWire لقراءة واستكشاف أسلاك الأخبار العالمية المفتوحة مترجمة بالكامل إلى العربية والقراءة الكاملة داخل التطبيق عبر وكيل ذكاء اصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
